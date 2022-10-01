@@ -1,8 +1,8 @@
-Origin: Frida
-Label: Frida
+Origin: Xelahot's Repository
+Label: Xelahot's Repository
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64
 Components: main
-Description: Official Frida Repo
+Description: Xelahot's repository
