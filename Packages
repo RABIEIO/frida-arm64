@@ -5,7 +5,7 @@ Installed-Size: 55608
 Architecture: iphoneos-arm64
 Priority: optional
 Section: Development
-Filename: pool/main/r/re.frida.server/re.frida.server_15.2.2_iphoneos-arm.deb
+Filename: re.frida.server_15.2.2_iphoneos-arm.deb
 Size: 15963816
 SHA256: 19289ccf853ca29f15a32a7ecd1e3fb79c61a2c660f291f0368aa6d0007b8c39
 SHA1: 1c003f513068e7310763673fe6c6e463c9be3ef4
