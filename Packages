@@ -1,17 +1,15 @@
-Package: re.frida.server
-Name: Frida
-Version: 15.2.2
-Installed-Size: 55608
+Package: com.xelahot.xelahotagario
+Name: Xelahot - Agar.io
 Architecture: iphoneos-arm64
-Priority: optional
-Section: Development
-Filename: frida-server-14.0.4-ios-arm64.deb
-Size: 15963816
-SHA256: 19289ccf853ca29f15a32a7ecd1e3fb79c61a2c660f291f0368aa6d0007b8c39
-SHA1: 1c003f513068e7310763673fe6c6e463c9be3ef4
-MD5sum: 97b52505a2bab184a82d0c4bf8aa4c94
-Description: yes
-Homepage: https://www.frida.re/
-Maintainer: Ole AndrÃ© Vadla RavnÃ¥s <oleavr@nowsecure.com>
-Author: Frida Developers <oleavr@nowsecure.com>
-Conflicts: re.frida.server64
+Description: Xelahot mod menu for Agar.io for free!
+Maintainer: xelahot
+Author: xelahot
+Section: Tweaks
+Conflicts: com.xelahot.libxelahot
+Version: 1.3.1
+Installed-Size: 388
+Filename: com.xelahot.xelahotagario_1.3.1_iphoneos-arm64.deb
+Size: 69660
+MD5sum: ecb3e6ef98150022d81207a068c22e51
+SHA1: 4e6cfa7241519a208002fae6e991f52a053612ea
+SHA256: 99b8124cceec5b18edd45d47a6d732d8e8fd98f69fb4689f5941d0e7ee17ee67
