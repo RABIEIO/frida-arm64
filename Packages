@@ -2,7 +2,7 @@ Package: re.frida.server
 Name: Frida
 Version: 15.2.2
 Installed-Size: 55608
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Priority: optional
 Section: Development
 Filename: pool/main/r/re.frida.server/re.frida.server_15.2.2_iphoneos-arm.deb
@@ -15,40 +15,3 @@ Homepage: https://www.frida.re/
 Maintainer: Ole AndrÃ© Vadla RavnÃ¥s <oleavr@nowsecure.com>
 Author: Frida Developers <oleavr@nowsecure.com>
 Conflicts: re.frida.server64
-
-Package: re.frida.server32
-Name: Frida for 32-bit devices
-Version: 14.0.1
-Installed-Size: 17928
-Architecture: iphoneos-arm
-Priority: optional
-Section: Development
-Filename: pool/main/r/re.frida.server32/re.frida.server32_14.0.1_iphoneos-arm.deb
-Size: 9363872
-SHA256: 8ff0b07b8327e3850cace741ff87723c2ffe6d5d47908df91b50e034c21c7857
-SHA1: 4e71a21dbafa653d10dc6fb7b31945bede62a043
-MD5sum: abc22018f680d25732eacb059727779f
-Description: Inject JavaScript to explore iOS apps over USB.
-Homepage: https://www.frida.re/
-Maintainer: Ole AndrÃ© Vadla RavnÃ¥s <oleavr@nowsecure.com>
-Author: Frida Developers <oleavr@nowsecure.com>
-Conflicts: re.frida.server, re.frida.server64
-
-Package: re.frida.server64
-Name: Frida for A12+ devices
-Version: 14.2.13
-Installed-Size: 42760
-Architecture: iphoneos-arm
-Priority: optional
-Section: Development
-Filename: pool/main/r/re.frida.server64/re.frida.server64_14.2.13_iphoneos-arm.deb
-Size: 12064904
-SHA256: af574c5a6f9e0cc321155d1c9d402da740734d28e85f18b6977dd0732dc750d6
-SHA1: 4243deffcc47857dfcb6634a151cfdf4881afe41
-MD5sum: ffbc876d5e4958ebf1a7385555fe906c
-Description: Inject JavaScript to explore iOS apps over USB.
-Homepage: https://www.frida.re/
-Maintainer: Ole AndrÃ© Vadla RavnÃ¥s <oleavr@nowsecure.com>
-Author: Frida Developers <oleavr@nowsecure.com>
-Conflicts: re.frida.server
-
