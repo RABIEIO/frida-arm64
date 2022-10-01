@@ -2,7 +2,7 @@ Package: re.frida.server
 Name: Frida
 Version: 15.2.2
 Installed-Size: 55608
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Priority: optional
 Section: Development
 Filename: re.frida.server_15.2.2_iphoneos-arm.deb
