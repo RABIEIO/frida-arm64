@@ -8,8 +8,8 @@ Section: Tweaks
 Conflicts: com.xelahot.libxelahot
 Version: 1.3.1
 Installed-Size: 388
-Filename: com.xelahot.xelahotagario_1.3.1_iphoneos-arm64.deb
+Filename: FlexCrack.deb
 Size: 69660
-MD5sum: ecb3e6ef98150022d81207a068c22e51
-SHA1: 4e6cfa7241519a208002fae6e991f52a053612ea
-SHA256: 99b8124cceec5b18edd45d47a6d732d8e8fd98f69fb4689f5941d0e7ee17ee67
+MD5sum: 65c169c48b64bfe91df5ef0b244b7bd0
+SHA1: 71620912ca9ca3ef8f19d3c714e53a10f4bccc6f
+SHA256: eb86f47fdb516c3909d6fee18700e9a9785e18a45b9341c87ad5bd4480123b60
