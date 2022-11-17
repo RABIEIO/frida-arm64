@@ -1,15 +1,8 @@
-Package: com.xelahot.xelahotagario
-Name: Xelahot - Agar.io
-Architecture: iphoneos-arm64
-Description: Xelahot mod menu for Agar.io for free!
-Maintainer: xelahot
-Author: xelahot
+Package: com.idk.randompackage
+Name: love.litten.dress_2.6_iphoneos-arm
+Architecture: iphoneos-arm
+Description: if not worked just tell me in discord
+Maintainer: rabie
+Author: rabie
 Section: Tweaks
-Conflicts: com.xelahot.libxelahot
-Version: 1.3.1
-Installed-Size: 388
-Filename: FlexCrack.deb
-Size: 69660
-MD5sum: 65c169c48b64bfe91df5ef0b244b7bd0
-SHA1: 71620912ca9ca3ef8f19d3c714e53a10f4bccc6f
-SHA256: eb86f47fdb516c3909d6fee18700e9a9785e18a45b9341c87ad5bd4480123b60
+Version: 1.0.0
